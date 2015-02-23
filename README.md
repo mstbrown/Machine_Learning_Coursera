@@ -1,17 +1,3 @@
-@@ -0,0 +1,230 @@
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-
-<meta charset="utf-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="pandoc" />
-
-<meta name="author" content="RStudio" />
-
-
 <title>MachineLearning_CourseProject</title>
 
 <script src="data:application/x-javascript,%2F%2A%21%20jQuery%20v1%2E11%2E0%20%7C%20%28c%29%202005%2C%202014%20jQuery%20Foundation%2C%20Inc%2E%20%7C%20jquery%2Eorg%2Flicense%20%2A%2F%0A%21function%28a%2Cb%29%7B%22object%22%3D%3Dtypeof%20module%26%26%22object%22%3D%3Dtypeof%20module%2Eexports%3Fmodule%2Eexports%3Da%2Edocument%3Fb%28a%2C%210%29%3Afunction%28a%29%7Bif%28%21a%2Edocument%29throw%20new%20Error%28%22jQuery%20requires%20a%20window%20with%20a%20document%22%29%3Breturn%20b%28a%29%7D%3Ab%28a%29%7D%28%...(line truncated)...
